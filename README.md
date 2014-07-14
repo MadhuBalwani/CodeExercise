@@ -9,18 +9,18 @@ The starting code base can be found at:
 https://github.com/FinancialSoftwareLimited/CodeExercise
 
 
-Exercise 1
+Exercise 1 (max 30mins)
 ----------
 - Critique the code:
   - Identify the most offensive code "smell"
   - Identify potential problems that could be encountered in developing and/or 
     maintaining a system that uses the code as it is written
 
-Exercise 2
+Exercise 2 (max 1hour)
 ----------
 - Refactor to "fix" the code
 
-Exercise 3
+Exercise 3 (max 30mins)
 ----------
 - Describe why the refactored code is better than the previous code
 - Describe what you would do if you had longer than 2 hours to complete these 
