@@ -30,6 +30,7 @@ exercises.
 Notes
 -----
 - No external libraries, databases, resources should be required to complete 
-  these exercises.
+  these exercises.  If you decide to use an external library, please reference 
+  the package using nuget.
 - All notes should be provided as C# comments in your submitted solution.
 - Brownie points will be awarded for TDD and/or BDD solutions.
